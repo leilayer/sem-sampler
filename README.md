@@ -38,3 +38,6 @@
 - `sem_sampler_app.py`：程序界面
 - `sem_core.py`：坐标换算、取点、读取元数据
 - 预览缩略图缓存在 `%LOCALAPPDATA%\SEMSampler\thumbs`，可以随时删除。
+
+## License
+MIT，见 [LICENSE](LICENSE)。
